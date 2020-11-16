@@ -1,0 +1,6 @@
+/* Add application styles & imports to this file! */
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-image: url(https://miro.medium.com/max/2363/1*GsImz-edoeuqCMfKxDus0w.jpeg);
+}
